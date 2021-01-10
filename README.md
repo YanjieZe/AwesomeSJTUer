@@ -3,6 +3,8 @@
 </br>
 # Basic Dictionary 基本字典
 ##### 排序顺序：姓名拼音排序
+## C
+Yanning Chen: https://lightquantum.me/
 ## F
 方浩树：https://fang-haoshu.github.io/
 ## H
