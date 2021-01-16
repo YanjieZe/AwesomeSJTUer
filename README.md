@@ -5,6 +5,7 @@
 ##### 排序顺序：姓名拼音排序
 ## C
 Yanning Chen: https://lightquantum.me/
+Lequn Chen (陈乐群)：https://abcdabcd987.com/about/
 ## F
 方浩树：https://fang-haoshu.github.io/
 ## H
